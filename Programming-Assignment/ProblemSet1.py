@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Oct 15 22:19:59 2016
 
-@author: Abdullah A. Alam
+@author: Jahnvi Patel
 """
 
 # - ProblemSet1.py *- coding: utf-8 -*-
